@@ -1,9 +1,9 @@
 
 # Network Leads Home Assignment
 
-####- Deploy to Netlify: https://quirky-rosalind-07e021.netlify.app/
+- Deploy to Netlify: https://quirky-rosalind-07e021.netlify.app/
 
-####- Author: [Yakir Ifrah](https://www.linkedin.com/in/yakir-ifrah-979ab7ab/ "Yakir Ifrah")
+- Author: [Yakir Ifrah](https://www.linkedin.com/in/yakir-ifrah-979ab7ab/ "Yakir Ifrah")
 
 
 ------------
