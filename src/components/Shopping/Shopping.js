@@ -51,7 +51,6 @@ function Shopping () {
 
 const S = {};
 S.ShoppingContanier = styled.div`
-  
 
 `;
 S.ShoppingHeader = styled.div`
